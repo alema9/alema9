@@ -8,3 +8,4 @@
 alema9/alema9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!---After completion of your degree, the world out there will be welcoming you as either an Employee or Employer, using a casual loop diagram show how the following variables affect one another in real life indicating the loop types and polarities.---> 
